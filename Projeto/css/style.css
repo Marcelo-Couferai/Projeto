@@ -1,0 +1,13 @@
+.quadrado{
+  background-color: red;
+  height: 300px;
+  width: 300px
+}
+
+.retangulo{
+  background-color: yellow;
+  height: 300px;
+  width: 300px;
+  margin: 50px 0px 0px 100px;
+  padding: 25px 0px 0px 20px
+}
